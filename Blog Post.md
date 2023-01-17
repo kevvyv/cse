@@ -6,14 +6,11 @@ Lab 1
 Hello! if you are a new student in CSE15L then this blog post can help you with how to properly set up your CSE15 account and create a github account.
 
 One of the first applications you will need to have installed on your machine is VS code, before that verify that java is installed on your computer then navigate
-to https://code.visualstudio.com/ and select install on 
+to https://code.visualstudio.com/ and select install and make sure the version matches with the operating system for your machine.
 
+After downloading VS code and launching it the application should look like:
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/122575342/212788027-ab0a487b-eb1f-4232-b9e8-8df7d983fd1b.png)
 
 
 
