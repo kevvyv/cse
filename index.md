@@ -6,7 +6,7 @@ Lab 1
 Hello! if you are a new student in CSE15L then this blog post can help you with how to properly set up your CSE15 account and create a github account.
 
 One of the first applications you will need to have installed on your machine is VS code, before that verify that java is installed on your computer then navigate
-to https://code.visualstudio.com/ and select install and make sure the version matches with the operating system for your machine.
+to [this page](https://code.visualstudio.com/) and select install and make sure the version matches with the operating system for your machine.
 
 After downloading VS code and launching it the application should look like:
 
@@ -14,7 +14,7 @@ After downloading VS code and launching it the application should look like:
 
 
 
-Next, we are going to need to set up your course specific account for CSE15. To do this, navigate over to https://sdacs.ucsd.edu/~icc/index.php and follow the steps
+Next, we are going to need to set up your course specific account for CSE15. To do this, navigate over to [this site](https://sdacs.ucsd.edu/~icc/index.php) and follow the steps
 to reset your passowrd, it is important that you do not change the global password as that will switch the login info for all of your UCSD related accounts. 
 
 The screen should look something like this
